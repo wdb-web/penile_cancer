@@ -1,0 +1,1 @@
+scp /home/wangdongbin/work/2024/2024_7_13_E007_TLS/raw_data/RNA_OS.csv 240715813\@qq.com@submit.big.ac.cn:/OMIX/
